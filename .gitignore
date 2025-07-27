@@ -1,0 +1,32 @@
+# Carpetas de compilación
+bin/
+obj/
+
+# Archivos temporales de Visual Studio
+.vs/
+*.user
+*.suo
+
+# Archivos de configuración local
+appsettings.Development.json
+secrets.json
+
+# Paquetes y artefactos
+packages/
+*.nupkg
+artifacts/
+
+# Archivos de log
+*.log
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Publicaciones
+publish/
+
+# Node.js (si usas npm o webpack)
+node_modules/
+dist/
+
