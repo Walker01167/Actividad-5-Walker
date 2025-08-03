@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.13.35931.197 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaCitasAPI", "SpaCitasAPI.csproj", "{798B025F-C7F0-46C4-80A3-BB7F53F12C45}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaCitasAPI", "SpaCitasAPI.csproj", "{DCE1C681-DD56-4117-8A91-A404BED1A338}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{798B025F-C7F0-46C4-80A3-BB7F53F12C45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{798B025F-C7F0-46C4-80A3-BB7F53F12C45}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{798B025F-C7F0-46C4-80A3-BB7F53F12C45}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{798B025F-C7F0-46C4-80A3-BB7F53F12C45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCE1C681-DD56-4117-8A91-A404BED1A338}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCE1C681-DD56-4117-8A91-A404BED1A338}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCE1C681-DD56-4117-8A91-A404BED1A338}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCE1C681-DD56-4117-8A91-A404BED1A338}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {3EE87101-1765-4763-A39B-916EA8A81CC4}
+		SolutionGuid = {E66ABC2E-0A3A-4969-9ED3-531883164C01}
 	EndGlobalSection
 EndGlobal
